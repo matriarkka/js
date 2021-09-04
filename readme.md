@@ -1,1 +1,2 @@
 JavaScript harjoituksia
+Ohjeita ja dokumentaatiota
